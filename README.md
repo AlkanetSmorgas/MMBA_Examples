@@ -7,7 +7,7 @@ To download the mission, click on the green button "Clone or download". Download
 
 The arma 3 eden editor missions are located under "Documents\Arma 3\missions".
 
-Open the zip file and drag the folder you want, "Documents\Arma 3\missions". 
+Open the zip file and drag the folder you want to "Documents\Arma 3\missions". 
 
 ```
 Example: Drag the folder MMBA_AirportInvasion.Altis to missions folder.
